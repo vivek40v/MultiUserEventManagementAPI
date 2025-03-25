@@ -1,0 +1,13 @@
+.idea
+.vscode
+logs
+test*.py
+*.xlsx
+*.env
+venv
+.venv
+*.zip
+*.ipynb
+extra
+*.csv
+*.whl
